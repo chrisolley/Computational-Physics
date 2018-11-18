@@ -1,2 +1,2 @@
 # Computational-Physics
-Computational Physics Course 2017
+Mixture of computational physics related functions coded from scratch.
